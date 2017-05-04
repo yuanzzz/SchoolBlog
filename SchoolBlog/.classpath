@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Java">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/资料/jar/hibernatejar/lib/optional/c3p0/c3p0-0.9.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-aop-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-aop-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-aop-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-aspects-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-aspects-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-aspects-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-beans-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-beans-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-beans-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-context-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-context-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-context-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-context-support-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-context-support-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-context-support-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-core-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-core-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-core-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-expression-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-expression-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-expression-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-instrument-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-instrument-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-instrument-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-instrument-tomcat-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-instrument-tomcat-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-instrument-tomcat-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-jdbc-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-jdbc-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-jdbc-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-jms-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-jms-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-jms-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-messaging-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-messaging-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-messaging-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-orm-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-orm-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-orm-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-oxm-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-oxm-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-oxm-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-test-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-test-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-test-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-tx-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-tx-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-tx-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-web-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-web-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-web-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-webmvc-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-webmvc-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-webmvc-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-webmvc-portlet-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-webmvc-portlet-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-webmvc-portlet-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-websocket-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-websocket-4.2.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/springjar/spring-websocket-4.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/commons-logging-1.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/commons-logging-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/commons-logging-adapters-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/commons-logging-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/commons-logging-tests.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/mysql驱动jar/mysql-connector-java-5.1.22-bin.jar"/>
+	<classpathentry kind="lib" path="F:/资料/jar/mysql驱动jar/ojdbc14.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
